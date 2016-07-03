@@ -12,7 +12,7 @@ namespace testservice.Controllers
         // GET: api/Test
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1a", "value2abc" };
+            return new string[] { "value1a", "value2b" };
         }
 
         // GET: api/Test/5
