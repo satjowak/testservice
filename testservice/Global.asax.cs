@@ -19,6 +19,7 @@ namespace testservice
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             //zmiana feature1 (poprawka)
+            //feature3
         }
     }
 }
