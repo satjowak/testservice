@@ -18,7 +18,7 @@ namespace testservice
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            //zmiana feature1 (poprawka)
+            //feature2
             //feature3
         }
     }
